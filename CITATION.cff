@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Herrera Pinheiro"
+  given-names: "João Manoel"
+  orcid: "https://orcid.org/0009-0001-6192-7374"
+title: "Breast Cancer Classification"
+version: 2.0.4
+date-released: 2024-14-02
+url: "https://github.com/joaomh/breast-cancer"
